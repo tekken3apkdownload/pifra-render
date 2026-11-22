@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pifra.onrender.com/sitemap.xml
